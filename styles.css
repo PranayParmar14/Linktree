@@ -46,7 +46,7 @@ main {
     color:white;
 
 }
-.btn1
+.btn2
 {
     background-color: white;
     padding: 16px 20px;
@@ -56,7 +56,7 @@ main {
     text-decoration: none;
     text-align: center;
 }
-.btn1:hover 
+.btn2:hover 
 {
     background: transparent;
     border: 1px solid white;
