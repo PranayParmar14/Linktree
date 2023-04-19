@@ -15,7 +15,8 @@ main {
     flex-direction: column;
     max-width: 300px;
     margin: 50px auto;
-    color: azure;
+    color: black;
+    overflow-y: visible;
 
 }
 .name 
