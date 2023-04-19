@@ -1,7 +1,8 @@
-html {
-    height: 100%;
-    margin: 0;
-    overflow: hidden;
+html{
+  height: 100%;
+  margin: auto;
+  width: 960px;
+  overflow: hidden;
 }
 
 body{
