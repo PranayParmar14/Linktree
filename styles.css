@@ -1,22 +1,22 @@
 html{
-  height: 100%;
-  margin: 0;
-  overflow: hidden;
-}
-
-body{
-    font-family: sans-serif;
-    background-image: url('https://preview.redd.it/very-dark-waves-v0-3txqi19ndfg81.jpg?auto=webp&s=f959a80a3a61edc7d84ab3869833573b086d1276') ;
-    background-repeat: repeat;
-    background-size: cover ;
-}
-main {
-    display: flex;
-    flex-direction: column;
-    max-width: 300px;
-    margin: 50px auto;
-    color:azure;
-    overflow-y: visible;
+    height: 100%;
+    margin: 0;
+    overflow-y: scroll;
+  }
+  
+  body{
+      font-family: sans-serif;
+      background-image: url('https://preview.redd.it/very-dark-waves-v0-3txqi19ndfg81.jpg?auto=webp&s=f959a80a3a61edc7d84ab3869833573b086d1276') ;
+      background-repeat: repeat;
+      background-size: cover ;
+  }
+  main {
+      display: flex;
+      flex-direction: column;
+      max-width: 300px;
+      margin: 50px auto;
+      color:azure;
+      overflow-y: visible;
 
 }
 .name 
